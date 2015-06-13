@@ -13,3 +13,5 @@ In order to run the example you need to just start a server. What we suggest is 
 3. run `serve` in the directory of this project.
 
 Go to `http://localhost:3000` and you'll see the app running :).
+
+(If you come across a 401 error when running the app, try using a different port in the project, as noted [here](https://github.com/auth0/docs/issues/81). )
